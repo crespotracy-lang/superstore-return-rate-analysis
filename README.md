@@ -1,11 +1,10 @@
-[README_Superstore_Return_Rate_Analysis.md](https://github.com/user-attachments/files/33261512/README_Superstore_Return_Rate_Analysis.md)
 # Superstore Return Rate Analysis Dashboard
 
 ## Project Overview
 
 This Tableau project analyzes customer returns in the Superstore
 dataset. The dashboard helps users monitor return rates and identify
-patterns by product category, sub-category, customer, state, and time.
+patterns by product category, sub-category, state, and time.
 
 **Live Tableau Dashboard:**\
 https://public.tableau.com/views/SuperstoreReturnRateAnalysisDashboard/SuperstoreReturnRateAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
@@ -16,11 +15,14 @@ The goal is to understand where returns occur most frequently and
 provide an interactive dashboard for investigating potential return
 drivers.
 
-The analysis focuses on: - Return rates - Sales versus returns - Product
-categories and sub-categories - Customers with higher return rates -
-Geographic differences - Return-rate trends over time -
-State-and-category return patterns
+The analysis focuses on:
 
+- Return rates
+- Sales versus returns
+- Product categories and sub-categories
+- Geographic differences
+- Return-rate trends over time
+- State-and-category return patterns
 ## Dashboard Components
 
 ### Sales vs. Returns by Sub-Category
