@@ -132,7 +132,5 @@ The project uses the Superstore dataset containing order, customer,
 product, geographic, and return information.
 
 ## Author
-
-**Tracy Crespo**
-
-Business Analytics Project
+**Tracy Crespo**  
+Aspiring Business Analyst | SQL | Excel | Power BI | Tableau
