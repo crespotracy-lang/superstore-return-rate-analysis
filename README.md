@@ -110,10 +110,7 @@ improvement.
 
 ## Key Takeaway
 
-The dashboard provides an interactive view of **where return rates are
-highest and when they change**. Combining category, customer,
-geographic, and time-based analysis helps move from a general return
-problem to a specific area for investigation.
+The dashboard brings together sales versus returns, product category comparisons, geographic patterns, and trends over time to help identify areas for further investigation. These visualizations support data-driven decisions by helping Superstore prioritize products, locations, and time periods for a closer review of return activity.
 
 ## Tools & Skills
 
@@ -124,7 +121,6 @@ problem to a specific area for investigation.
 -   Return-rate analysis
 -   Geographic analysis
 -   Time-series analysis
--   Customer analysis
 -   Heat maps
 -   Scatter plots
 -   Interactive filtering
