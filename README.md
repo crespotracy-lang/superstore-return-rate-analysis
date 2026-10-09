@@ -6,6 +6,9 @@ This Tableau project analyzes customer returns in the Superstore
 dataset. The dashboard helps users monitor return rates and identify
 patterns by product category, sub-category, state, and time.
 
+## Dashboard Preview
+
+![Superstore Return Rate Analysis Dashboard](dashboard.png)
 **Live Tableau Dashboard:**\
 https://public.tableau.com/views/SuperstoreReturnRateAnalysisDashboard/SuperstoreReturnRateAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
